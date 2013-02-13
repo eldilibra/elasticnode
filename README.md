@@ -13,3 +13,5 @@ This client is meant to get out of the way as much as possible. The strongest op
 * ***deleteByQuery***
 
 There will be much more to come.
+
+PS. **elasticnode** uses the [**request** module](https://github.com/mikeal/request) for all HTTP requests, which makes for smooth sailing.
