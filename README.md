@@ -12,6 +12,4 @@ This client is meant to get out of the way as much as possible. The strongest op
 * ***moreLikeThis*** - uses the /_mlt method, so you can use filters and such in an uncluttered fashion
 * ***deleteByQuery***
 
-There will be much more to come.
-
 PS. **elasticnode** uses the [**request** module](https://github.com/mikeal/request) for all HTTP requests, which makes for smooth sailing.
